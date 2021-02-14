@@ -3,6 +3,7 @@ Our product supports Windows XP/7/8/10
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
 We have collected the necessary material for your work - [**CamCastPromo.zip**  ](https://github.com/CamCast-O-Matic/Promotion/releases/tag/Promotion)  
 Also if you need we have attached a sample promotional video - [**Advertising videos.zip**](https://github.com/CamCast-O-Matic/Promotion/releases/tag/PromotionVideo)  
+**In the video for advertising, you need to tell about the features of our product that are written above and show the interface of our product.**  
 Our features:  
 - Capture video from your computer screen
 - Makes it possible to record various 2D/3D games with 4K UHD Video and capture up to 480 FPS Video.
@@ -18,4 +19,3 @@ Our features:
 - Use Styles and Templates to make editing a series of Software tutorials quicker and easier.
 - Create animated GIFs and APNGs from any video project  
 Our video creation tool help youtubers create and communicate through video. Simple and intuitive tool to get the job done easily.  
-In the video for advertising, you need to tell about the features of our product that are written above and show the interface of our product.
