@@ -1,7 +1,7 @@
 # CamCast
 Our product supports Windows XP/7/8/10  
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
-We have collected the necessary material for your work - [**CamCastPromo.zip**  ](https://github.com/CamCast-O-Matic/Promotion/releases)
+We have collected the necessary material for your work - [**CamCastPromo.zip**  ](https://github.com/CamCast-O-Matic/Promotion/releases)  
 Also if you need we have attached a sample promotional video - [**Advertising videos.zip**]()  
 Our features:  
 - Capture video from your computer screen
