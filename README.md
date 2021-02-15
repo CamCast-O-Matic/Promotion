@@ -1,5 +1,5 @@
 # CamCast
-#### **`Our product supports Windows XP/7/8/10`**  
+### :exclamation:**`Our product supports Windows XP/7/8/10`**:exclamation:    
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
 We have collected the necessary material for your work - [**CamCastPromo.zip**  ](https://github.com/CamCast-O-Matic/Promotion/releases/tag/Promotion)  
 Also if you need we have attached a sample promotional video - [**Advertising videos.zip**](https://github.com/CamCast-O-Matic/Promotion/releases/tag/PromotionVideo)  
