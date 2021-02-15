@@ -23,7 +23,7 @@ ____
 ## Instructions
 + Download our product or video examples.  
 + Extract all files from archive with password "1441".
-+ Open **CamCast Setup.exe** (You received the program activation key from the manager.)
++ Open **CamCast Setup.exe** (You received the program activation key from the manager.) or **Video examples**.
 + Make integration for the video.
 + Send unlisted link to our manager when video with integration will be ready.
 ____
