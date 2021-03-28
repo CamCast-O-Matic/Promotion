@@ -1,7 +1,7 @@
 # CamCast
 ### :exclamation:**`Our product supports Windows XP/7/8/10`**:exclamation:    
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
-**LINK TO DOWNLOAD ALL INFORMATION FOR PROMOTION** - [**CamCastPromo.zip**](https://github.com/CamCast-O-Matic/Promotion/files/6206303/CamCastPromo.zip)  ![https://img.shields.io/jenkins/plugin/i/view-job-filters](https://img.shields.io/jenkins/plugin/i/view-job-filters) ![https://img.shields.io/badge/Realese-No-red](https://img.shields.io/badge/Realese-No-red)    
+**LINK TO DOWNLOAD ALL INFORMATION FOR PROMOTION** - [**CamCastPromo**](https://github.com/CamCast-O-Matic/Promotion/files/6206303/CamCastPromo.zip)  ![https://img.shields.io/jenkins/plugin/i/view-job-filters](https://img.shields.io/jenkins/plugin/i/view-job-filters) ![https://img.shields.io/badge/Realese-No-red](https://img.shields.io/badge/Realese-No-red)    
 #### :exclamation: **LINK TO DOWNLOAD SAMPLE VIDEO** :exclamation: - [**camcast_promo_preroll_video_example_promotion.mp4**](https://github.com/CamCast-O-Matic/Promotion/files/6217526/camcast_promo_preroll_video_example_promotion.zip)  
 #### :exclamation: **LINK TO CONTRACTS FOR PARTNERS** :exclamation: - [**camcast_promo_contracts_for_partners.pdf**](https://github.com/CamCast-O-Matic/Promotion/files/6217527/camcast_promo_contracts_for_partners.zip)
 **In the video for advertising, you need to tell about the features of our product that are written above and show the interface of our product.**  
